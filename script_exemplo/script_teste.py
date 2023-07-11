@@ -1,6 +1,9 @@
+
+def sum_str(a, b):
+    return a+b
+
 a = "Hello, "
 b = "World!"
 
-c = a + b
-
-
+sum_str(a, b)
+print(sum_str)
