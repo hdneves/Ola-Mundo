@@ -5,5 +5,4 @@ def sum_str(a, b):
 a = "Hello, "
 b = "World!"
 
-sum_str(a, b)
-print(sum_str)
+print(sum_str(a, b))
